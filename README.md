@@ -28,7 +28,7 @@ Motivated and detail-oriented aspiring Data Analyst with a strong foundation in 
 ## 📈 Visualization & Reporting
 - Microsoft Excel
 - Dashboards & Charts
-- Power BI (Learning)
+- Power BI
 - Matplotlib
 - Seaborn
 
@@ -79,8 +79,9 @@ Seeking an opportunity as a Data Analyst where I can apply analytical thinking, 
 # 📫 Connect With Me
 
 📧 Email: anu858661@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/anurag-pandey-68083b338
-🐙 GitHub: https://github.com/your-username
+💼LinkedIn:
+https://www.linkedin.com/in/anurag-pandey-68083b338
+🐙 GitHub:https://github.com/Anuragpandeymzp
 
 ---
 
