@@ -87,7 +87,7 @@ https://www.linkedin.com/in/anurag-pandey-68083b338
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Anuragpandeymzp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
