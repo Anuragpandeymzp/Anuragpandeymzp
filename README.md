@@ -78,8 +78,8 @@ Seeking an opportunity as a Data Analyst where I can apply analytical thinking, 
 
 # 📫 Connect With Me
 
-📧 Email: your-email@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/your-link  
+📧 Email: anu858661@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/anurag-pandey-68083b338
 🐙 GitHub: https://github.com/your-username
 
 ---
