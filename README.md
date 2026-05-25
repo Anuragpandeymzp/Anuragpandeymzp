@@ -1,5 +1,7 @@
-# 👋 Hi, I'm Anurag Pandey
-
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  Hi, I'm Anurag Pandey
+</h1>
 🎯Data-Driven Professional | ML Enthusiast 
 📍 India  
 📊 Transforming raw data into meaningful insights and business solutions  
