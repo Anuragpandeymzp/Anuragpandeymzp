@@ -13,10 +13,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 📊 Aspiring Data Analyst  
+- 📊  Data-Driven Professional
 - 🐍 Skilled in Python & SQL  
 - 📈 Creating Dashboards & Reports  
-- 📚 Learning Power BI & Machine Learning  
+- 📚 Learning Machine Learning  
 - 🚀 Passionate about Data Visualization  
 
 ---
