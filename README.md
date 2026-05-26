@@ -1,9 +1,9 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hi, I'm Anurag Pandey
+  Hi, I'm Anurag
 </h1>
 
-<h3 align="center">📊  Data-Driven Professional| Python | SQL | Power BI</h3>
+<h3 align="center">📊  Data-Driven Professional | Python | SQL | Power BI</h3>
 
 <p align="center">
   Turning Data Into Insights 📈
