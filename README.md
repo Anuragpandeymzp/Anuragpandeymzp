@@ -1,96 +1,52 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  Hi, I'm Anurag
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I'm Anurag Pandey
 </h1>
-🎯Data-Driven Professional | ML Enthusiast 
-📍 India  
-📊 Transforming raw data into meaningful insights and business solutions  
+
+<h3 align="center">📊  Data-Driven Professional| Python | SQL | Power BI</h3>
+
+<p align="center">
+  Turning Data Into Insights 📈
+</p>
 
 ---
 
-# 🚀 Professional Summary
+## 🙋‍♂️ About Me
 
-Motivated and detail-oriented aspiring Data Analyst with a strong foundation in Python, SQL, Excel, and Data Analytics concepts. Skilled in analyzing datasets, identifying trends, and creating insightful reports to support business decision-making. Passionate about data visualization, problem-solving, and building real-world analytics projects.
-
----
-
-# 🛠 Core Skills
-
-## 💻 Programming & Querying
-- Python
-- SQL
-
-## 📊 Data Analytics
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Validation
-- Data Quality Monitoring
-- Business Insights Generation
-- Data Interpretation
-
-## 📈 Visualization & Reporting
-- Microsoft Excel
-- Dashboards & Charts
-- Power BI
-- Matplotlib
-- Seaborn
-
-## 📚 Analytical Knowledge
-- Statistics Basics
-- KPI Monitoring
-- Business Analytics
+- 📊 Aspiring Data Analyst  
+- 🐍 Skilled in Python & SQL  
+- 📈 Creating Dashboards & Reports  
+- 📚 Learning Power BI & Machine Learning  
+- 🚀 Passionate about Data Visualization  
 
 ---
 
-# 📂 Featured Projects
+## 🛠 Tech Stack
 
-## 📊 Data Quality Monitoring System
-- Developed an Excel-based monitoring system to track data quality issues
-- Analyzed missing values, duplicate records, and invalid entries
-- Created visual dashboards and reports for better business understanding
-- Improved reporting accuracy through structured data validation
-
-# 🧰 Tools & Technologies
-
-- Python
-- SQL
-- Microsoft Excel
-- Power BI
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+Python • SQL • Excel • Power BI • Pandas • NumPy • Matplotlib • Seaborn
 
 ---
 
-# 📚 Currently Learning
+## 📂 Featured Project
 
-- Advanced SQL
-- Power BI Dashboard Development
-- Data Visualization Techniques
-- Machine Learning Fundamentals
-
----
-
-# 🎯 Career Objective
-
-Seeking an opportunity as a Data Analyst where I can apply analytical thinking, technical skills, and data-driven decision-making to contribute to organizational growth and business success.
+### 📊 Data Quality Monitoring System
+- Tracked missing & invalid data
+- Built dashboards in Excel
+- Generated business insights
 
 ---
 
-# 📫 Connect With Me
+## 🌐 Connect With Me
 
-📧 Email: anu858661@gmail.com  
-💼LinkedIn:
+💼 LinkedIn:  
 https://www.linkedin.com/in/anurag-pandey-68083b338
-🐙 GitHub:https://github.com/Anuragpandeymzp
+
+🐙 GitHub:  
+https://github.com/Anuragpandeymzp
+
+📧 Email:  
+anu858661@gmail.com
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Anuragpandeymzp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-⭐ Thank you for visiting my GitHub profile!
+⭐ Thanks for visiting my profile!
