@@ -38,15 +38,13 @@ Python • SQL • Excel • Power BI • Pandas • NumPy • Matplotlib • Se
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/anurag-pandey-68083b338
+💼 LinkedIn: https://www.linkedin.com/in/anurag-pandey-68083b338
 
-🐙 GitHub:  
-https://github.com/Anuragpandeymzp
+🐙 GitHub:https://github.com/Anuragpandeymzp
 
-📧 Email:  
-anu858661@gmail.com
+📧 Email:anu858661@gmail.com
 
 ---
 
 ⭐ Thanks for visiting my profile!
+
